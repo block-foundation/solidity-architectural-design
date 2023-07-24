@@ -1,18 +1,18 @@
+.*
+**/tsconfig.json
+**/webpack.config.js
 node_modules
-.env
-.env*
+node_modules/
+
+src
+docs
+test
+
+tsconfig.json
+tslint.json
+.github
+.prettierignore
+**/*.spec.*
 coverage
-coverage.json
-typechain
-
-# Hardhat files
-cache
-artifacts
-
-hardhat.config.ts
-contracts/test
-test/
-
-# Others 
-lib
-.DS_Store
+*.log
+*.html
