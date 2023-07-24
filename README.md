@@ -1,8 +1,8 @@
 <div align="right">
 
-  [![license](https://img.shields.io/github/license/block-foundation/manifesto?color=green&label=license&style=flat-square)](LICENSE.md)
-  ![stars](https://img.shields.io/github/stars/block-foundation/manifesto?color=blue&label=stars&style=flat-square)
-  ![contributors](https://img.shields.io/github/contributors/block-foundation/manifesto?color=blue&label=contributors&style=flat-square)
+  [![license](https://img.shields.io/github/license/block-foundation/solidity-architectural-design?color=green&label=license&style=flat-square)](LICENSE.md)
+  ![stars](https://img.shields.io/github/stars/block-foundation/solidity-architectural-design?color=blue&label=stars&style=flat-square)
+  ![contributors](https://img.shields.io/github/contributors/block-foundation/solidity-architectural-design?color=blue&label=contributors&style=flat-square)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div>
     <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
-    <h1 align="left">Solidity Smart-Contract Template</h1>
+    <h1 align="left">Architectural Design</h1>
     <h3 align="left">Block Foundation Smart Contract Series [Solidity]</h3>
 </div>
 
