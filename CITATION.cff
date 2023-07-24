@@ -1,8 +1,8 @@
 cff-version: 1.2.0
-title: solidity-land-registry
+title: solidity-architectural-design
 version: 0.0.1
 date-released: 2023-07-01
-url: "https://github.com/block-foundation/solidity-land-registry"
+url: "https://github.com/block-foundation/solidity-architectural-design"
 message: >-
   If you use this software, please cite it using
   the metadata from this file.
@@ -13,7 +13,3 @@ authors:
     email: lars@blockfoundation.io
     affiliation: Block Foundation
     orcid: 'https://orcid.org/0000-0002-8790-8630'
-  - given-names: Jelle David
-    family-names: Feringa
-    email: jelle@blockfoundation.io
-    affiliation: Block Foundation
