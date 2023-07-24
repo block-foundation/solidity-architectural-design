@@ -1,6 +1,6 @@
 {
-  "name": "solidity-land-registry",
-  "description": "Decentralized Land Registry",
+  "name": "solidity-architectureal-design",
+  "description": "Architectural Design",
   "author": "Stichting Block Foundation",
   "version": "0.0.1",
   "license": "Apache-2.0",
@@ -9,13 +9,13 @@
     "blockchain",
     "architecture"
   ],
-  "homepage": "https://github.com/block-foundation/solidity-land-registry#readme",
+  "homepage": "https://github.com/block-foundation/solidity-architectural-design#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/block-foundation/solidity-land-registry.git"
+    "url": "git+https://github.com/block-foundation/solidity-architectural-design.git"
   },
   "bugs": {
-    "url": "https://github.com/block-foundation/solidity-land-registry/issues"
+    "url": "https://github.com/block-foundation/solidity-architectural-design/issues"
   },
   "main": "index.ts",
   "scripts": {
